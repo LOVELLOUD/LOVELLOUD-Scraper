@@ -1,0 +1,16 @@
+{
+  "name": "LOVELLOUD/Scraper",
+  "version": "1.0.0",
+  "description": "Samsit",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOVELLOUD/LOVELLOUD-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LOVELLOUD/LOVELLOUD-Scraper/issues"
+  },
+  "homepage": "https://github.com/LOVELLOUD/LOVELLOUD-Scraper#readme"
+}
